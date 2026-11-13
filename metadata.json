@@ -1,0 +1,8 @@
+{
+  "name": "Remix IQC数字化质量管理系统",
+  "description": "IQC数字化质量管理系统首页，包含待检、检验中、合格、让步、退货、评审中批数统计，物料清单、排行榜及缺陷分布分析",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
